@@ -434,14 +434,3 @@ This project is available for educational and development purposes.
 GitHub: [@afzal-10-02](https://github.com/afzal-10-02)
 
 ---
-
-## Acknowledgements
-
-Built as a learning project to practice **Python, Flask, SQLAlchemy, database design, authentication, and web application development**.
-
-```
-
-One important thing I noticed while checking the repo: **`.venv`, `__pycache__`, and the `instance` directory are currently visible in GitHub**. For a portfolio-quality repository, I strongly recommend adding these to `.gitignore` and removing them from Git tracking. Also, your `app.py` currently contains a hardcoded secret key and default admin password, so those should be changed before you showcase the repository publicly.
-
-[Open your Quiz Master repository](https://github.com/afzal-10-02/quiz_master_23f3003203?utm_source=chatgpt.com)
-```
